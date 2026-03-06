@@ -9,5 +9,14 @@
             "role": "Owner",
             "avatarUrl": "https://mlgtnhftesv8mqin.public.blob.vercel-storage.com/avatars/8638eec9-b1a7-4cdc-85c0-f74c6e6480c6.png"
         }
+        {
+            "name": "Clemens Steinhilber",
+            "username": "fredifret",
+            "slug": "fredifret",
+            "discord": "fredifret.",
+            "email": "fredifret@craftingstudiopro.de",
+            "role": "Owner",
+            "avatarUrl": "https://cdn.discordapp.com/avatars/1371126827355082832/3c23cef3fe5024ec9c4dd2f58fed7d81.webp?size=409"
+        }
     ]
 }
