@@ -33,7 +33,7 @@ jobs:
           enablement: true
         
       - name: Upload Files
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: '.' # Lädt alle Dateien aus dem Repo hoch (also deine team.json)
           
